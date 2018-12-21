@@ -11,6 +11,16 @@
                 <interface sztype="Ethernet" interfacename="GE" count="24" />
             </slot>
         </dev>
+        <dev id="73EF7142-9794-4f7d-A983-34ACBB37A728" name="LSW5" poe="0" model="S5700" settings="" system_mac="4C-1F-CC-FA-05-03" com_port="2003" bootmode="0" cx="371.000000" cy="262.000000" edit_left="398" edit_top="316">
+            <slot number="slot17" isMainBoard="1">
+                <interface sztype="Ethernet" interfacename="GE" count="24" />
+            </slot>
+        </dev>
+        <dev id="23C4950D-3248-4582-B6F3-57674C8DA70D" name="LSW4" poe="0" model="S5700" settings="" system_mac="4C-1F-CC-DD-56-2C" com_port="2002" bootmode="0" cx="180.000000" cy="267.000000" edit_left="207" edit_top="321">
+            <slot number="slot17" isMainBoard="1">
+                <interface sztype="Ethernet" interfacename="GE" count="24" />
+            </slot>
+        </dev>
     </devices>
     <lines>
         <line srcDeviceID="BDB03E87-2B4F-4157-BCB8-A271803B2174" destDeviceID="A5384D8F-503A-484d-81C0-93206CA9FB14">
