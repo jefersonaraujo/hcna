@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UNICODE" ?>
 <topo version="1.3.00.100">
     <devices>
-        <dev id="23DFCB50-3BCC-4405-99D8-5E2796B2504C" name="AR2" poe="0" model="AR2240" settings="" system_mac="00-E0-FC-68-61-3D" com_port="2000" bootmode="1" cx="372.000000" cy="261.000000" edit_left="399" edit_top="315">
+        <dev id="23DFCB50-3BCC-4405-99D8-5E2796B2504C" name="AR2" poe="0" model="AR2240" settings="" system_mac="00-E0-FC-68-61-3D" com_port="2000" bootmode="0" cx="372.000000" cy="261.000000" edit_left="399" edit_top="315">
             <slot number="slot17" isMainBoard="1">
                 <interface sztype="Ethernet" interfacename="GE" count="1" />
                 <interface sztype="Ethernet" interfacename="GE" count="2" />
             </slot>
         </dev>
-        <dev id="B25F72ED-7AD5-4de8-A01B-0B3C28B3B2B8" name="AR1" poe="0" model="AR2240" settings="" system_mac="00-E0-FC-BA-13-CC" com_port="2001" bootmode="1" cx="225.000000" cy="264.000000" edit_left="252" edit_top="318">
+        <dev id="B25F72ED-7AD5-4de8-A01B-0B3C28B3B2B8" name="AR1" poe="0" model="AR2240" settings="" system_mac="00-E0-FC-BA-13-CC" com_port="2001" bootmode="0" cx="225.000000" cy="264.000000" edit_left="252" edit_top="318">
             <slot number="slot17" isMainBoard="1">
                 <interface sztype="Ethernet" interfacename="GE" count="1" />
                 <interface sztype="Ethernet" interfacename="GE" count="2" />
